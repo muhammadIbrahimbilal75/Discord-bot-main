@@ -1,0 +1,6 @@
+2025-08-08 12:34:23 - root - ERROR - DISCORD_TOKEN not found in environment variables
+2025-08-08 12:35:21 - root - ERROR - DISCORD_TOKEN not found in environment variables
+2025-08-08 20:03:34 - ai_chat - ERROR - OpenRouter API error 401: {"error":{"message":"User not found.","code":401}}
+2025-08-08 20:03:44 - ai_chat - ERROR - OpenRouter API error 401: {"error":{"message":"User not found.","code":401}}
+2025-08-08 20:09:42 - ai_chat - ERROR - OpenRouter API error 400: {"error":{"message":"Provider returned error","code":400,"metadata":{"raw":"{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for models/gemma-3-12b-it\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n","provider_name":"Google AI Studio"}},"user_id":"user_2yrIS4iLqiG9rDbNlLDpnVw0f8i"}
+2025-08-08 20:10:27 - ai_chat - ERROR - OpenRouter API error 400: {"error":{"message":"Provider returned error","code":400,"metadata":{"raw":"{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for models/gemma-3-12b-it\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n","provider_name":"Google AI Studio"}},"user_id":"user_2yrIS4iLqiG9rDbNlLDpnVw0f8i"}
